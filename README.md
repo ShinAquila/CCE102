@@ -1,6 +1,6 @@
 # CCE102
 
-----------[Topics]----------
+----------[ Topics ]----------
 
 • Arithmetic Operators
 • Logical Operators\
@@ -13,7 +13,7 @@
 
 <br/> <br/>
 
-----------[Exercises]----------
+----------[ Exercises ]----------
 
 • Calculate Quarter, Nickle, Dime, Penny
 • Search in an Array\
